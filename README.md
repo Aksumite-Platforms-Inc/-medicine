@@ -1,2 +1,4 @@
 # -medicine
-ጥበብ medicine Ai based mobile  application , uses scanning x-ray and give full resalt about the x-ray and ai chat bot  
+# ጥበብ medicine AI-based mobile  application
+uses scanning x-rays and gives full result about the x-rays and ai chatbot
+### developed by aksumite technologies Inc.
